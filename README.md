@@ -10,6 +10,6 @@ Here, you can see all the models available in TensorFlow Module Hub.
 
 Concepts that will be covered in this Colab
 
-Use a TensorFlow Hub model for prediction.
-Use a TensorFlow Hub model for Dogs vs. Cats dataset.
-Do simple transfer learning with TensorFlow Hub.
+1) Use a TensorFlow Hub model for prediction.
+2) Use a TensorFlow Hub model for Dogs vs. Cats dataset.
+3) Do simple transfer learning with TensorFlow Hub.
